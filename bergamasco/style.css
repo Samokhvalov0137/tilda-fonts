@@ -4,3 +4,11 @@
     font-weight: normal;
     src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/bergamasco/Bergamasco.woff') format('woff');
     }
+
+
+    @font-face {
+    font-family: 'Bergamasco Bold';
+    font-style: normal;
+    font-weight: bold;
+    src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/bergamasco/Bergamasco-bold.woff') format('woff');
+    }
