@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Helvetica';
+    src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/helvetica/Helvetica.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/helvetica/Helvetica-Oblique.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/helvetica/Helvetica-BoldOblique.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/helvetica/Helvetica-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/helvetica/Helvetica-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/helvetica/Helvetica-LightOblique.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
