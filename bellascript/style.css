@@ -1,0 +1,13 @@
+    @font-face {
+    font-family: 'Bella Script CYR';
+    font-style: normal;
+    font-weight: normal;
+    src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/bellascript/BellaScriptCYR.woff') format('woff');
+    }
+
+    @font-face {
+    font-family: 'Bella Script';
+    font-style: normal;
+    font-weight: normal;
+    src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/bellascript/BellaScript.woff') format('woff');
+    }
