@@ -1,6 +1,13 @@
     @font-face {
     font-family: 'Helvetica Neue';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/HelveticaNeue/HelveticaNeue.woff') format('woff');
+    }
+
+        @font-face {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 300;
+    src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/HelveticaNeue/HelveticaNeueCyr-Light.woff') format('woff');
     }
