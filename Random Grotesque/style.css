@@ -1,0 +1,13 @@
+    @font-face {
+        font-family: 'Random Grotesque Standard Medium';
+        font-style: normal;
+        font-weight: normal;
+        src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/RandomGrotesque/RG-StandardMedium.woff') format('woff');
+    }
+
+    @font-face {
+        font-family: 'Random Grotesque Spacious Book';
+        font-style: normal;
+        font-weight: bold;
+        src: url('https://cdn.jsdelivr.net/gh/Samokhvalov0137/tilda-fonts/RandomGrotesque/RG-SpaciousBook.woff') format('woff');
+    }
